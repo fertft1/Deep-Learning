@@ -1,2 +1,4 @@
+Project about use RNN to create a script to Simpsons using scripts of the ancient seasons as data set!
+
 Loss can be very small with the seq_length small, but the script don't make any sense.
 Bigger seq_length bring more sense to the script, but the script don't appears so good like a human writer
