@@ -1,0 +1,2 @@
+Loss can be very small with the seq_length small, but the script don't make any sense.
+Bigger seq_length bring more sense to the script, but the script don't appears so good like a human writer
